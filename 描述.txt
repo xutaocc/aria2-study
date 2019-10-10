@@ -1,0 +1,3 @@
+cmd启动命令可以看日志，窗口关闭失效，
+
+aria2c.exe --conf-path=aria2.conf
